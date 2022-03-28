@@ -43,12 +43,12 @@ useEffect(() => {
         </Wrapper>
 
     );
-
+}
    SearchBar.propTypes = {
         callback: PropTypes.func
-   } 
+   };
     
 
-    }
+
 
 export default SearchBar;
